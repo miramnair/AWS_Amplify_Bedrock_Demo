@@ -27,7 +27,7 @@ const SearchPage = () => {
     }
 
     try {
-      const response = await axios.post('https://zidjiglhn2.execute-api.us-east-1.amazonaws.com/dev/query', {
+      const response = await axios.post('https://hhxlbkmuuk.execute-api.us-east-1.amazonaws.com/main/question', {
         query: query,
       }, {
         headers: {
