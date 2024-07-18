@@ -1,3 +1,18 @@
+
+# Flow Diagram :
+
+![image](https://github.com/user-attachments/assets/63cc8dd2-954e-4bbb-9488-87e43b30e156)
+
+**Description :** https://medium.com/@miramnair/aws-amplify-building-a-bedrock-powered-ai-model-with-python-based-lambda-function-556d501f1e5f
+
+# Final Product :
+
+![image](https://github.com/user-attachments/assets/a1ea1cb4-d674-4226-9085-cf21562c128e)
+
+![image](https://github.com/user-attachments/assets/2bf9a67a-804d-4790-949e-dcd3055186c1)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
